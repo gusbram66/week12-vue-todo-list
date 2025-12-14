@@ -59,6 +59,8 @@ const deleteTask = (index) => {
   tasks.value.splice(index, 1);
 };
 ```
+<img width="884" height="745" alt="image" src="https://github.com/user-attachments/assets/4bb284cd-09c7-4083-9122-8e8ffa592448" />
+
 
 ### 3. Template Features
 
@@ -94,7 +96,7 @@ Aplikasi akan berjalan di `http://localhost:5173`
 
 ### 1. Screenshot Hasil Program
 
-![To-Do List App](screenshots/todo-app-screenshot.png)
+<img width="910" height="498" alt="image" src="https://github.com/user-attachments/assets/7d8908d0-2977-4de1-8ef3-fd1ea782f2a5" />
 _Screenshot aplikasi To-Do List yang sudah berjalan_
 
 ### 2. Penjelasan Singkat
