@@ -59,6 +59,7 @@ const deleteTask = (index) => {
   tasks.value.splice(index, 1);
 };
 ```
+
 <img width="884" height="745" alt="image" src="https://github.com/user-attachments/assets/4bb284cd-09c7-4083-9122-8e8ffa592448" />
 
 
