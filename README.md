@@ -2,8 +2,8 @@
 
 ## Identitas
 
-- **Nama** : [Nama Lengkap Mahasiswa]
-- **NIM** : FD2200123
+- **Nama** : Ida Bagus Brahmanta Jayana
+- **NIM** : FD22052
 - **Mata Kuliah** : Pemrograman Web Lanjut
 - **Assignment** : Week 12 - Vue.js To-Do List
 
